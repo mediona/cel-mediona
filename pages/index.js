@@ -24,6 +24,7 @@ export default function Home() {
           de les instal·lacions. Aquestes entitats estan basades en la participació oberta i voluntària i les controlen
           les persones sòcies o membres que la conformen.
             </p>
+        <p className="description">
           <b>2. Què és una Comunitat Energètica Local (CEL) impulsada des de l’Economia Social i
 Solidària (ESS)?
 </b><br />
@@ -32,6 +33,17 @@ sense ànim de lucre. Tenen la voluntat de generar dinàmiques cooperatives que 
 de  produir  i  consumir  recursos  energètics
 i  que  generen  un  impacte  transformador  a  nivell  social  i
 mediambiental i local.
+
+            </p>
+        <p className="description">
+          <b>3. Quins són els principals serveis energètics que podria oferir la CEL?</b><br />
+            Els principals serveis energètics que podria oferir una CEL són els relatius a la producció d’energia
+através de diferents tecnologies (fotovoltaica, xarxa de calor, biogàs, etc.), l’assessorament entorn a
+l’eficiència energètica i altres serveis com la mobilitat sostenible, telefonia mòbil, internet compartit,
+formacions  i  compres  col·lectives  de  produc
+tes o serveis (d’energia, d’instal·lacions solars, de cotxe
+elèctric, etc.).
+
 
             </p>
       </main>
