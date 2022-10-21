@@ -12,7 +12,7 @@ export default function Home() {
 
       <main >
         <Header title="Comunitat Energetica de Mediona (CEL)" />
-        <p>Descàrrega el triptic del CEL<a href="https://1drv.ms/b/s!Ah8CFXn5hdsXj6AbmHfEUTpy4M6gZg?e=AJieg8">aquí mateix.</a>
+        <p>Descàrrega el triptic del CEL<a href="https://1drv.ms/b/s!Ah8CFXn5hdsXj6AbmHfEUTpy4M6gZg?e=AJieg8">aquí mateix.</a></p>
         <h3>Preguntes i Respostes</h3>
         <p className="description">
           <b>1. Què és una comunitat energètica local (CEL)?</b><br />
