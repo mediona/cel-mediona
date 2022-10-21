@@ -6,22 +6,20 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Comunitat Energetica de Mediona (CEL)</title>
+        <title>Comunitat Energètica Local de Mediona (CEL)</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main >
-        <Header title="Comunitat Energetica de Mediona (CEL)" />
-        <p>Descàrrega el triptic del CEL<a href="https://1drv.ms/b/s!Ah8CFXn5hdsXj6AbmHfEUTpy4M6gZg?e=AJieg8">aquí mateix.</a></p>
+        <Header title="Comunitat Energètica Local de Mediona (CEL)" />
+        <p>Descarrega el tríptic de la CEL <a href="https://1drv.ms/b/s!Ah8CFXn5hdsXj6AbmHfEUTpy4M6gZg?e=AJieg8">aquí mateix</a>.</p>
         <h3>Preguntes i Respostes</h3>
         <p className="description">
           <b>1. Què és una comunitat energètica local (CEL)?</b><br />
-            Les CEL’s són organitzacions formades per agrupacions de diferents agents d’un mateix territori que
-          s’uneixen per transformar la manera en
+            Les CEL són organitzacions formades per agrupacions de diferents agents d’un mateix territori que s’uneixen per a transformar la manera en
           què es produeix i s’accedeix a l’energia, generant beneficis
           mediambientals, econòmics i socials als seus membres i a les zones locals on opera. Tenen capacitat
-          per a distribuir l’energia generada a qualsevol punt de connexió que es trobi dins un radi de 5
-          00 metres
+          per a distribuir l’energia generada a qualsevol punt de connexió que es trobi dins un radi d’un quilòmetre
           de les instal·lacions. Aquestes entitats estan basades en la participació oberta i voluntària i les controlen
           les persones sòcies o membres que la conformen.
             </p>
@@ -32,32 +30,28 @@ Solidària (ESS)?
             Les CEL impulsades des de l’ESS són entitats amb forma jurídica pròpia (associació o cooperativa)
 sense ànim de lucre. Tenen la voluntat de generar dinàmiques cooperatives que transformen la manera
 de  produir  i  consumir  recursos  energètics
-i  que  generen  un  impacte  transformador  a  nivell  social  i
+i  que  generen  un  impacte  transformador  a  escala  social,
 mediambiental i local.
 
             </p>
         <p className="description">
           <b>3. Quins són els principals serveis energètics que podria oferir la CEL?</b><br />
             Els principals serveis energètics que podria oferir una CEL són els relatius a la producció d’energia
-através de diferents tecnologies (fotovoltaica, xarxa de calor, biogàs, etc.), l’assessorament entorn a
+a través de diferents tecnologies (fotovoltaica, xarxa de calor, biogàs, etc.), l’assessorament entorn a
 l’eficiència energètica i altres serveis com la mobilitat sostenible, telefonia mòbil, internet compartit,
-formacions  i  compres  col·lectives  de  produc
-tes o serveis (d’energia, d’instal·lacions solars, de cotxe
+formacions  i  compres  col·lectives  de  productes o serveis (d’energia, d’instal·lacions solars, de cotxe
 elèctric, etc.).
             </p>
         <p className="description">
           <b>4. Quins són els beneficis d’una CEL?</b><br />
 Els  beneficis  d’una  CEL  inclouen  tres  dimensions:  mediambiental,  social  i  econòmica.
-A nivell mediambiental, les CEL contribueixen a redui
-r les emissions de C02, a través de la producció
+A escala mediambiental, les CEL contribueixen a reduir les emissions de C0<sub>2</sub>, a través de la producció
 d’energia verda i renovable, treballant l’eficiència i reducció de l’ús energètic.
-A  nivell  social,  les  CEL  són  un  mecanisme  per  democratitzar  el  model  energètic,  garantint  l'accés
-universal a l’energia, la
-sobirania  energètica  del  territori  i  la  lluita  contra  la  pobresa  energètica.  Així
-mateix, les CEL empoderen a les persones que hi participen en la presa de decisions sobre el model
-energètic i contribueixen a millorar les relacions de veïnatge i enfortir l
-a comunitat local.
-Finalment,  a  nivell  econòmic  redueixen  l’import mensual  de  la  factura  elèctrica,  i  el  consum  i  la
+A  escala  social,  les  CEL  són  un  mecanisme  per a democratitzar el model  energètic, garantint  l’accés
+universal a l’energia, la sobirania  energètica  del  territori  i  la  lluita  contra  la  pobresa  energètica.  Així
+mateix, les CEL empoderen les persones que hi participen en la presa de decisions sobre el model
+energètic i contribueixen a millorar les relacions de veïnatge i a enfortir la comunitat local.
+Finalment,  en l’àmbit econòmic, redueixen  l’import mensual de la factura  elèctrica,  i  el  consum  i  la
 producció local de serveis energètics genera riquesa en el territori en el qual opera la CEL.
             </p>
         <p className="description">
