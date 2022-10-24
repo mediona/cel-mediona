@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <footer className={styles.footer}>
-        Ajuntament de Mediona
+        <a href="https://comunidadesenergeticas.org/" target="_blank">Altres comunitats</a>
       </footer>
     </>
   )
