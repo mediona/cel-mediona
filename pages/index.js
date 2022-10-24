@@ -15,7 +15,7 @@ export default function Home() {
 
       <main >
         <Header title="Comunitat Energètica Local de Mediona (CEL)" />
-        <p>Descarrega el tríptic de la CEL <a href="/triptic.pdf">aquí mateix</a>.</p>
+        <p>Benvingut a la pàgina de la CEL de Mediona, aquí podràs consultar els dubtes més freqüents sobre la comunitat i descarregar els documents principals que et poden servir d'ajuda</p>
         <h3>Preguntes i Respostes</h3>
         <p className="description">
           <b>1. Què és una comunitat energètica local (CEL)?</b><br />
@@ -185,6 +185,8 @@ A nivell econòmic, el Bo Social s’aplica sobre el total de la factura de la l
 Finalment,  com  a  última  consideració,  cal  recordar  que  totes  aquestes  famílies  hauran  de  seguir connectades a la xarxa a través de les comercialitzadores de referència (CUR) per seguir aplicant pel
 Bo Social, fet no incompatible en participar de la CEL.
         </p>
+        <h3>Documents relacionats</h3>
+        <p>Descarrega el tríptic de la CEL <a href="/triptic.pdf" target="_blank">aquí mateix</a>.</p>
       </main>
 
       <Footer />
