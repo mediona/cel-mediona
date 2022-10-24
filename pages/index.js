@@ -187,6 +187,7 @@ Bo Social, fet no incompatible en participar de la CEL.
         </p>
         <h3>Documents relacionats</h3>
         <p>Descarrega el tríptic de la CEL <a href="/triptic.pdf" target="_blank">aquí mateix</a>.</p>
+        <img src="/logo.png" alt="logo"></img>
       </main>
 
       <Footer />
