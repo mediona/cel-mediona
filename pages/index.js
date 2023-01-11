@@ -6,7 +6,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Comunitat Energètica Local de Mediona (CEL)</title>
+        <title>Comunitat Energètica Local de Mediona (CEL de Mediona)</title>
+        <meta name="description" content="És la futura comunitat energètica local de Mediona que agrupa els habitants del municipi per recollir energia i compartir-la. El benefici és triple: mediambiental, social i econòmic.">
+        <meta name="robots" content="index, follow">
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,7 +16,7 @@ export default function Home() {
       </Head>
 
       <main >
-        <Header title="Comunitat Energètica Local de Mediona (CEL)" />
+        <Header title="Comunitat Energètica Local de Mediona (CEL de Mediona)" />
         <p>Benvingut a la pàgina de la CEL de Mediona, aquí podràs consultar els dubtes més freqüents sobre la comunitat i descarregar els documents principals que et poden servir d'ajuda</p>
         <h3>Preguntes i Respostes</h3>
         <p className="description">
