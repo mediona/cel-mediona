@@ -6,7 +6,10 @@ import NavItem from "./NavItem";
 const MENU_LIST = [
   { text: "Qui som", href: "/" },
   { text: "Estat actual", href: "/estat-actual" },
-  { text: "Contact", href: "/contact" },
+  { text: "Xifres", href: "/xifres" },
+  { text: "Premsa", href: "/premsa" },
+  { text: "FAQ", href: "/faq" },
+  { text: "Contacte", href: "/contacte" },
 ];
 const Navbar = () => {
   const [navActive, setNavActive] = useState(null);
