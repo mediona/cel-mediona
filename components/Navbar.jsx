@@ -10,7 +10,7 @@ const MENU_LIST = [
   { text: "Xifres", href: "/xifres" },
   { text: "Premsa", href: "/premsa" },
   { text: "FAQ", href: "/faq" },
-  { text: "Contacte", href: "/contacte" },
+  { text: "Feste soci", href: "/feste-soci" },
 ];
 const Navbar = () => {
   const [navActive, setNavActive] = useState(null);
@@ -20,9 +20,7 @@ const Navbar = () => {
     <header>
       <nav className={`nav`}>
         <Link href={"/"}>
-          <a>
-            <h1 className="logo">CEL de Mediona</h1>
-          </a>
+          <a className="logo">CEL de Mediona</a>
         </Link>
         <div
           onClick={() => setNavActive(!navActive)}

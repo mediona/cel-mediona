@@ -11,7 +11,7 @@ export default function Home() {
 
         <p>El nostre objectiu seria reduir la dependència de les grans distribuïdores i comercialitzadores, produint la nostra pròpia energia d'una manera més ecològica i sostenible. De moment, en una primera fase, l'objectiu és aprofitar la voluntat del nostre ajuntament per instal·lar un conjunt de plaques solars sobre el sostre del poliesportiu.</p>
 
-        <p>Part d'aquesta primera fase, busquem integrar a la comunitat cinquanta habitages de Sant Joan o Can Xombo, per ara hi ha una limitació legal de 2km des del centre de producció de l'energia, 5 comerços i el mateix ajuntament. Podeu obtenir més informació del projecte podeu veure <a href="/xifres">la secció de xifres</a> on expliquem en més detall l'estudi tècnic fet per ePlural.</p>
+        <p>Part d'aquesta primera fase, busquem constituir una cooperativa e integrar a la comunitat cinquanta habitages de Sant Joan o Can Xombo, per ara hi ha una limitació legal de 2km des del centre de producció de l'energia, 5 comerços i el mateix ajuntament. Podeu obtenir més informació del projecte podeu veure <a href="/xifres">la secció de xifres</a> on expliquem en més detall l'estudi tècnic fet per ePlural.</p>
 
         <p>En aquest moment estem en cerca activa perquè no arribem a la xifra desitjada, així que si t'interessa no dubtis a contactar-nos a <a href="mailto:celmediona@gmail.com">celmediona@gmail.com</a>. A la part de <a href="/feste-soci">Fes-te soci'</a> detallem que necessites per formar part.</p>
 

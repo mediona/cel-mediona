@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;700&display=swap');
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&family=Raleway:ital,wght@1,100;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&family=Raleway:ital,wght@0,400;1,100;1,200&display=swap');
 
+* {
+  font-family: 'Raleway', sans-serif;
+}
 h1, h2, h3, h4 {
   font-weight: bold;
 }
@@ -29,6 +30,13 @@ main a{
   width: 50%;
   display:block;
   margin:auto;
+}
+
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-size: x-large;
+  text-decoration: none;
+  font-style: italic;
 }
 
 nav{
@@ -74,6 +82,10 @@ nav{
 
 .nav__link:hover{
  font-weight: bold;
+}
+
+.nav__item{
+  text-decoration: none;
 }
 
 .center{
