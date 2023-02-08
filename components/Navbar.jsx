@@ -5,6 +5,7 @@ import NavItem from "./NavItem";
 
 const MENU_LIST = [
   { text: "Qui som", href: "/" },
+  { text: "Perque", href: "/perque-ferme-soci"},
   { text: "Estat actual", href: "/estat-actual" },
   { text: "Xifres", href: "/xifres" },
   { text: "Premsa", href: "/premsa" },
