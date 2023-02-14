@@ -7,7 +7,7 @@ export default function Home() {
         <h1>Què és la CEL de Mediona?</h1>
         <p>És una <a href="https://www.diba.cat/es/web/mediambient/comunitats-energ%C3%A8tiques" target="_blank">comunitat energètica local</a> de Mediona, també anomenada CEL de Mediona, formada de diferents agents, en el nostre cas l'ajuntament, comerços i ciutadans, per tal de produir, distribuir i consumir energia de manera compartida.</p>
 
-        <p>La plataforma sorgeix com una proposta de l'ajuntament per impulsar la sobirania energetica del nostre poble. Recolzant-se a ePlural, assessoria tècnica amb experiència en aquest tipus de projectes, al llarg del 2022 s'han anat fent xerrades explicatives del que és una comunitat energètica. A més, s'ha creat un grup motor, format per habitants del municipi, per impulsar la creació del projecte.</p>
+        <p>La plataforma sorgeix com una proposta de l'ajuntament per impulsar la sobirania energetica del nostre poble. Recolzant-se a <a href="https://comunitatenergetica.coop/" target="_blank">ePlural</a> i <a href="https://epi.coop/ca/inici/" target="_blank">EPI</a>, assessorias tècnica amb experiència en aquest tipus de projectes, al llarg del 2022 s'han anat fent xerrades explicatives del que és una comunitat energètica. A més, s'ha creat un grup motor, format per habitants del municipi, per impulsar la creació del projecte.</p>
 
         <p>El nostre objectiu seria reduir la dependència de les grans distribuïdores i comercialitzadores, produint la nostra pròpia energia d'una manera més ecològica i sostenible. De moment, en una primera fase, l'objectiu és aprofitar la voluntat del nostre ajuntament per instal·lar un conjunt de plaques solars sobre el sostre del poliesportiu.</p>
 
