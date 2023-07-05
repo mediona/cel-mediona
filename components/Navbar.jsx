@@ -5,12 +5,12 @@ import NavItem from "./NavItem";
 
 const MENU_LIST = [
   { text: "Qui som", href: "/" },
-  { text: "Perque", href: "/perque-ferme-soci"},
+  { text: "Per què", href: "/perque-ferme-soci"},
   { text: "Estat actual", href: "/estat-actual" },
   { text: "Xifres", href: "/xifres" },
   { text: "Premsa", href: "/premsa" },
   { text: "FAQ", href: "/faq" },
-  { text: "Feste soci", href: "/feste-soci" },
+  { text: "Fes-te'n soci", href: "/feste-soci" },
 ];
 const Navbar = () => {
   const [navActive, setNavActive] = useState(null);
